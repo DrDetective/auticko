@@ -32,7 +32,7 @@ namespace auticko
             }
             else
             {
-                Console.WriteLine($"Spotřeboval jsi {spotreba} paliva na {km} km");
+                Console.WriteLine($"Spotřeboval jsi {spotreba} litrů paliva na {km} km");
                 Thread.Sleep(2000);
             }
             //Debug.Write(spotreba);
